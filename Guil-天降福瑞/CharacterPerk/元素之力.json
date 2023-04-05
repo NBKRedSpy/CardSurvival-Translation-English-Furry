@@ -1,0 +1,90 @@
+{
+    "ActionModifiers": [],
+    "ActionObjectives": [],
+    "AddedCards": [],
+    "AddedCardsWarpData": [
+        "06b7a28b94b811eda27f047c16184f06",
+        "d262631694ba11ed8ada047c16184f06",
+        "6b6ce8f0954511edb990047c16184f06",
+        "fd1709cd958611ed9a69047c16184f06",
+        "5f1d93aa958411edbaf5047c16184f06",
+        "a60bd235958511eda790047c16184f06"
+    ],
+    "AddedCardsWarpType": 3,
+    "AddedStartingHours": 0,
+    "CardsOnBoardObjectives": [],
+    "CheckingNotificationDetails": 0,
+    "CompleteOnLose": false,
+    "CompleteOnWin": false,
+    "DifficultyRating": "0",
+    "DisplayPriority": "1",
+    "EditorOnly": false,
+    "EquippedCards": [],
+    "HiddenUntilUnlocked": false,
+    "MoonsCost": 0,
+    "NestedObjectives": [],
+    "NoSafetyMode": false,
+    "NotifyWhenNotChecked": false,
+    "OverrideEnvironment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideEquipment": "False",
+    "OverrideWeather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PassiveStatModifiers": [
+        {
+            "ApplyEachTick": false,
+            "InstantModifier": "True",
+            "IsInverse": false,
+            "RateModifier": {
+                "x": 0,
+                "y": 0
+            },
+            "Stat": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "ValueModifier": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "PerkDescription": {
+        "DefaultText": "\u643a\u5143\u7d20\u4e4b\u529b\uff0c\u5171\u6297\u5929\u707e\uff01",
+        "LocalizationKey": "",
+        "ParentObjectID": "f1c6be9a94b411ed9594047c16184f06"
+    },
+    "PerkIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PerkIconWarpData": "003339",
+    "PerkIconWarpType": 3,
+    "PerkName": {
+        "DefaultText": "\u5143\u7d20\u4e4b\u529b",
+        "LocalizationKey": "",
+        "ParentObjectID": "f1c6be9a94b411ed9594047c16184f06"
+    },
+    "PerkUnlockConditions": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayedCharacter": [],
+    "RequiredDifficultyScore": {
+        "x": 0,
+        "y": 0
+    },
+    "ResetLockInEditor": false,
+    "StartUnlocked": false,
+    "StartingStatModifiers": [],
+    "StatsObjectives": [],
+    "SunsCost": 5,
+    "TagsOnBoardObjectives": [],
+    "TimeObjectives": [],
+    "UniqueID": "f1c6be9a94b411ed9594047c16184f06"
+}

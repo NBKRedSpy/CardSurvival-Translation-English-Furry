@@ -1,0 +1,68 @@
+{
+    "ActionModifiers": [],
+    "ActionObjectives": [],
+    "AddedCards": [],
+    "AddedCardsWarpData": [
+        "1b90737694e711ed8004047c16184f06",
+        "e170a07994e811edaa6d047c16184f06"
+    ],
+    "AddedCardsWarpType": 3,
+    "AddedStartingHours": 0,
+    "CardsOnBoardObjectives": [],
+    "CheckingNotificationDetails": 0,
+    "CompleteOnLose": false,
+    "CompleteOnWin": false,
+    "DifficultyRating": "0",
+    "DisplayPriority": "1",
+    "EditorOnly": false,
+    "EquippedCards": [],
+    "HiddenUntilUnlocked": false,
+    "MoonsCost": 0,
+    "NestedObjectives": [],
+    "NoSafetyMode": false,
+    "NotifyWhenNotChecked": false,
+    "OverrideEnvironment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideEquipment": false,
+    "OverrideWeather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PassiveStatModifiers": [],
+    "PerkDescription": {
+        "DefaultText": "\u4f60\u662f\u4ed3\u9f20\u73a9\u5bb6\uff1f\u6765\u8bd5\u8bd5\u5149\u6697\u4e4b\u529b\u7684\u5e87\u4f51\u5427\uff01",
+        "LocalizationKey": "",
+        "ParentObjectID": "97bf588394ea11ed950b047c16184f06"
+    },
+    "PerkIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PerkIconWarpData": "003219",
+    "PerkIconWarpType": 3,
+    "PerkName": {
+        "DefaultText": "\u5149\u6697\u52a0\u62a4",
+        "LocalizationKey": "",
+        "ParentObjectID": "97bf588394ea11ed950b047c16184f06"
+    },
+    "PerkUnlockConditions": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayedCharacter": [],
+    "RequiredDifficultyScore": {
+        "x": 0,
+        "y": 0
+    },
+    "ResetLockInEditor": false,
+    "StartUnlocked": true,
+    "StartingStatModifiers": [],
+    "StatsObjectives": [],
+    "SunsCost": 0,
+    "TagsOnBoardObjectives": [],
+    "TimeObjectives": [],
+    "UniqueID": "97bf588394ea11ed950b047c16184f06"
+}

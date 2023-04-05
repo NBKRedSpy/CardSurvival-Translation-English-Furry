@@ -1,0 +1,129 @@
+Description:
+This Mod has a high degree of justice, use it with caution.
+1. Add werewolf partner
+2. Add a series of imprints
+3. Add feature: no load
+4. Add large-capacity boxes and 2 special effect boxes
+5. Delete the placement conditions for wells, water cellars, and cellars
+6. Add new maps: Entangling Swamp, Cave of the World, Cave of the Afterlife, Cave of Yongxia, Crimson Realm, etc.
+
+Body:
+1. Props: Chest of Zulvan:
+Large capacity, large load reduction, rotten suspension
+Requires 6 wood + 4 twigs to build
+2. Characteristics: Power of Light and Darkness:
+The start gives the following two boxes:
+Hydrin's Box: Large Capacity, Regression of Rot
+Chest of Zodiac: Large capacity, durable repair tools
+3. Feature: Power of elements, give 6 marks
+Mark of the Earth: can turn fine soil and dry soil into soil, open geodes and refine small stones
+Abyss Water Mark: Replenish the capacity of the container with liquid
+Mark of Fire: You can get kindling, the fire sources around you will increase fuel, and it can be used on kilns to recycle flames, so that kilns can be demolished.
+Mark of the Gale: Your stamina and foot damage heal faster
+Mark of Thunder: You can use thunder to fight monsters
+Mark of the Frozen: Freshness Aura
+4. Altar of Life: Unlock Herbology
+You can sacrifice organic matter to get holy medicine
+Holy Spirit Potion: Can heal bites and scrapes (you can now drag the medicine to the wound to heal it, it doesn't work on most of Apocalypse's wounds)
+Holy spirit medicine can also be made with ginseng + matsutake + ganoderma (requires Yuling mod)
+5. New features: the power of the dragon, unlimited load
+6.dll modification:
+Wells, water cellars, and cellars delete placement conditions
+7. New feature Werewolf partner: use this and you can become a macaque 0w0
+Start with a werewolf companion
+You can go hunting to get supplies (now there will be no pile of meat)
+You can play (well, why play plus spear fight, everyone can experience it for themselves)
+
+8. New location: Entangled Swamp
+Include:
+Moonwell (clean water that can't be drunk)
+Big mud pit (mud that can't be dug)
+Berry Tree (Endless Berries)
+connect:
+mangrove forest
+deserted beach
+eastern highlands
+Starting Trait: Entangling Swamp
+From the Entangled Swamp
+
+9. New locations: Cave of the World, Cave of the Afterlife
+Each contains 1 lodestone ore
+You can use an ax to mine, one for obsidian and one for lodestone
+connect:
+deserted beach, bat cave
+Exploring the bat cave can get guano and saltpeter crystals
+
+10. Volcanoes can dig ashes with a shovel (so much volcanic ash, it’s hard to justify it without using one)
+11. A new sticky mouse board is added, made of wood + glue, which can prevent rodent damage.
+12. Added a parasol, my mother no longer has to worry about my sunburn!
+Umbrellas can keep out the rain and can be closed
+The overly righteous part has been removed:
+Plastic bottles can be recycled into plastic cloth (no plastic pollution)
+Snake Grass Lifts Fiber Plus Herbology
+02-03
+Added new crop: mint
+Found a Peppermint Bush in the Entangling Swamp
+can be planted
+
+Added a new prop: Peppermint Candle
+It can increase sobriety and speed up the recovery of palm injuries and foot injuries
+Add Linkage: Production Tools
+The pickaxe can mine in the caves of the afterlife and the caves of the world
+The saw can cut wood in the Entangled Swamp
+Removed gnats that haunt swamps
+02-05
+Fixed mint text, textures
+Changed the traits and textures of werewolf companions
+Changed the texture of mint candles
+
+02-06
+Adjusted the drops of werewolf companions so that the sum of each weight is 100
+Dry mortar can be turned into mortar by adding water
+The broken wood carving can be re-carved by clicking "Re-carving"
+Werewolf Companion Added Interaction: Guild Wars
+-solitude, -encouragement, -sobriety, +entertainment, +emotion, +cost of battle (+pain)
+Axes and pickaxes (linked production tools) can be used to dig stones on the barren beach
+Holy medicine can drink -200 back pain and -100 battle cost
+
+02-18
+New location: Yongxia Cave
+50% of the beach exploration finds the entrance (convenient for friends who choose the beach to build a home for survival)
+Contains locations:
+seawater
+sea that acts like a sandy beach
+In addition, go diving with extremely high swimming skills, you can find the underwater exit (leading to the crimson realm)
+night mushroom
+Good looking (+25 comfortable), glowing (+25 bright)
+quagmire
+Can dig up mud piles and dead leaves
+Contains new discoveries
+fluorescent mushroom
+Provides 15 light, and when placed on a shelf, provides 25 comfort
+red coral
+Can absorb salt in seawater: it can be put into salt water, and water will be obtained after 1 hour
+Provides 25 comfort when placed in a shelf
+There are only two of the above items, so cherish them
+Cave capacity: 80,000, theoretically supports pillar expansion
+
+Added location: Crimson Realm
+You can return to the cave of the sea through the crimson lake, and you will fail if you don't have enough swimming skills
+include location
+maple
+Branches can be collected, and long sticks/leaves/twigs can be obtained randomly
+Hulk
+Can be explored, there is a chance of injury, high swimming skills can reduce the chance of injury, the following valuable things can be explored
+Rope*4, Metal Scrap*6, Thick Soil Core*1, Plastic Cloth*1
+Don't touch it after taking it, otherwise there will be only seaweed and wounds
+Thick Soil Core: One-time use, can generate 3 farmlands at once
+old house
+You can settle down and have a built-in alchemy table that can charge the molten core
+Old house capacity: 80,000, theoretically support pillar expansion
+remains
+Can be explored, there is a chance of being injured, and the following valuable things can be explored
+Road to West Highlands*1, Copper*3, Guardian*1
+Don't touch it after taking it, otherwise there will only be big stones and wounds
+You can only explore the road to Xigao from here. Xigao itself cannot explore the road to the Scarlet Realm. After you explore the road, you can go to and from Xigao
+The Guardian comes with a Molten Core
+The activated molten core can provide 15 body temperature bonus (some people want to resist the blizzard, so it is added)
+The energy can last for 3 days, and when it is used up, you have to go to the alchemy table to recharge the closed core without consuming energy
+Provides -6 isolation when the guardian is present (you are not alone on this island, there used to be traces of civilization here)

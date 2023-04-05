@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u5370\u8bb0",
+        "LocalizationKey": "",
+        "ParentObjectID": "8836b5aaf5c207b4cb3cf7712c405964"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": "100",
+    "NotifyWhenNew": false
+}
