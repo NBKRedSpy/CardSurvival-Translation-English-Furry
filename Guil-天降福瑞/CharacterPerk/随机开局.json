@@ -1,65 +1,65 @@
 {
-    "ActionModifiers": [],
-    "ActionObjectives": [],
-    "AddedCards": [],
-    "AddedStartingHours": 0,
-    "CardsOnBoardObjectives": [],
-    "CheckingNotificationDetails": 0,
-    "CompleteOnLose": false,
-    "CompleteOnWin": false,
-    "DifficultyRating": 1500,
-    "DisplayPriority": 110,
-    "EditorOnly": false,
-    "EquippedCards": [],
-    "HiddenUntilUnlocked": false,
-    "MoonsCost": 0,
-    "NestedObjectives": [],
-    "NoSafetyMode": false,
-    "NotifyWhenNotChecked": false,
-    "OverrideEnvironment": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideEnvironmentWarpData": "0a6b911299c111ed8467c475ab46ec3f",
-    "OverrideEnvironmentWarpType": 3,
-    "OverrideEquipment": false,
-    "OverrideWeather": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "PassiveStatModifiers": [],
-    "PerkDescription": {
-        "DefaultText": "\u4f60\u4e0d\u77e5\u9053\u4f60\u5c06\u4ece\u54ea\u91cc\u5f00\u59cb\uff0c\u4e00\u5207\u90fd\u662f\u672a\u77e5\u6570\u2026\u2026",
-        "LocalizationKey": "",
-        "ParentObjectID": "2ba0171750144a858a71caaf741f138a"
-    },
-    "PerkIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "PerkIconWarpData": "CardQuest",
-    "PerkIconWarpType": 3,
-    "PerkName": {
-        "DefaultText": "\u968f\u673a\u5f00\u5c40",
-        "LocalizationKey": "",
-        "ParentObjectID": "2ba0171750144a858a71caaf741f138a"
-    },
-    "PerkUnlockConditions": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "PlayedCharacter": [],
-    "RequiredDifficultyScore": {
-        "x": 0,
-        "y": 0
-    },
-    "ResetLockInEditor": false,
-    "StartUnlocked": true,
-    "StartingStatModifiers": [],
-    "StatsObjectives": [],
-    "SunsCost": "1",
-    "TagsOnBoardObjectives": [],
-    "TimeObjectives": [],
-    "UniqueID": "2ba0171750144a858a71caaf741f138a"
+  "ActionModifiers": [],
+  "ActionObjectives": [],
+  "AddedCards": [],
+  "AddedStartingHours": 0,
+  "CardsOnBoardObjectives": [],
+  "CheckingNotificationDetails": 0,
+  "CompleteOnLose": false,
+  "CompleteOnWin": false,
+  "DifficultyRating": 1500,
+  "DisplayPriority": 110,
+  "EditorOnly": false,
+  "EquippedCards": [],
+  "HiddenUntilUnlocked": false,
+  "MoonsCost": 0,
+  "NestedObjectives": [],
+  "NoSafetyMode": false,
+  "NotifyWhenNotChecked": false,
+  "OverrideEnvironment": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideEnvironmentWarpData": "0a6b911299c111ed8467c475ab46ec3f",
+  "OverrideEnvironmentWarpType": 3,
+  "OverrideEquipment": false,
+  "OverrideWeather": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PassiveStatModifiers": [],
+  "PerkDescription": {
+    "DefaultText": "你不知道你将从哪里开始，一切都是未知数……",
+    "LocalizationKey": "translate-606c53d9-fb09-4e40-b90d-44878f46ea15",
+    "ParentObjectID": "2ba0171750144a858a71caaf741f138a"
+  },
+  "PerkIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PerkIconWarpData": "CardQuest",
+  "PerkIconWarpType": 3,
+  "PerkName": {
+    "DefaultText": "随机开局",
+    "LocalizationKey": "translate-fe512bae-a406-4295-a625-52af725be132",
+    "ParentObjectID": "2ba0171750144a858a71caaf741f138a"
+  },
+  "PerkUnlockConditions": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "PlayedCharacter": [],
+  "RequiredDifficultyScore": {
+    "x": 0,
+    "y": 0
+  },
+  "ResetLockInEditor": false,
+  "StartUnlocked": true,
+  "StartingStatModifiers": [],
+  "StatsObjectives": [],
+  "SunsCost": "1",
+  "TagsOnBoardObjectives": [],
+  "TimeObjectives": [],
+  "UniqueID": "2ba0171750144a858a71caaf741f138a"
 }

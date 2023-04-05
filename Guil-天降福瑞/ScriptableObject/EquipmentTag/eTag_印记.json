@@ -1,10 +1,10 @@
 {
-    "InGameName": {
-        "DefaultText": "\u5370\u8bb0",
-        "LocalizationKey": "",
-        "ParentObjectID": "8836b5aaf5c207b4cb3cf7712c405964"
-    },
-    "MandatoryEquip": false,
-    "MaxEquipped": "100",
-    "NotifyWhenNew": false
+  "InGameName": {
+    "DefaultText": "印记",
+    "LocalizationKey": "translate-e87a6dbc-ea08-493e-a7a4-15e3798267c5",
+    "ParentObjectID": "8836b5aaf5c207b4cb3cf7712c405964"
+  },
+  "MandatoryEquip": false,
+  "MaxEquipped": "100",
+  "NotifyWhenNew": false
 }

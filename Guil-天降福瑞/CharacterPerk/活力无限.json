@@ -1,83 +1,83 @@
 {
-    "ActionModifiers": [],
-    "ActionObjectives": [],
-    "AddedCards": [],
-    "AddedStartingHours": 0,
-    "CardsOnBoardObjectives": [],
-    "CheckingNotificationDetails": 0,
-    "CompleteOnLose": false,
-    "CompleteOnWin": false,
-    "DifficultyRating": -1000,
-    "DisplayPriority": 86.0,
-    "EditorOnly": false,
-    "EquippedCards": [],
-    "HiddenUntilUnlocked": false,
-    "MoonsCost": 0,
-    "NestedObjectives": [],
-    "NoSafetyMode": false,
-    "NotifyWhenNotChecked": false,
-    "OverrideEnvironment": {
+  "ActionModifiers": [],
+  "ActionObjectives": [],
+  "AddedCards": [],
+  "AddedStartingHours": 0,
+  "CardsOnBoardObjectives": [],
+  "CheckingNotificationDetails": 0,
+  "CompleteOnLose": false,
+  "CompleteOnWin": false,
+  "DifficultyRating": -1000,
+  "DisplayPriority": 86.0,
+  "EditorOnly": false,
+  "EquippedCards": [],
+  "HiddenUntilUnlocked": false,
+  "MoonsCost": 0,
+  "NestedObjectives": [],
+  "NoSafetyMode": false,
+  "NotifyWhenNotChecked": false,
+  "OverrideEnvironment": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideEquipment": false,
+  "OverrideWeather": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PassiveStatModifiers": [
+    {
+      "ApplyEachTick": false,
+      "InstantModifier": false,
+      "IsInverse": false,
+      "RateModifier": {
+        "x": 16.0,
+        "y": 16.0
+      },
+      "Stat": {
         "m_FileID": 0,
         "m_PathID": 0
-    },
-    "OverrideEquipment": false,
-    "OverrideWeather": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "PassiveStatModifiers": [
-        {
-            "ApplyEachTick": false,
-            "InstantModifier": false,
-            "IsInverse": false,
-            "RateModifier": {
-                "x": 16.0,
-                "y": 16.0
-            },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "StatWarpData": "1cfd30cf13b69b949a0ac521f55a59a2",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": 0.0,
-                "y": 0.0
-            }
-        }
-    ],
-    "PerkDescription": {
-        "DefaultText": "\u4f60\u975e\u5e38\u6709\u6d3b\u529b\uff0c\u4f60\u7684\u8010\u529b\u6062\u590d\u52a0\u5feb\u3002",
-        "LocalizationKey": "",
-        "ParentObjectID": "2c8f7b61f6fe4b3aab24a79936726727"
-    },
-    "PerkIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "PerkIconWarpData": "Tired",
-    "PerkIconWarpType": 3,
-    "PerkName": {
-        "DefaultText": "\u6d3b\u529b\u65e0\u9650",
-        "LocalizationKey": "",
-        "ParentObjectID": "2c8f7b61f6fe4b3aab24a79936726727"
-    },
-    "PerkUnlockConditions": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "PlayedCharacter": [],
-    "RequiredDifficultyScore": {
-        "x": 0,
-        "y": 0
-    },
-    "ResetLockInEditor": false,
-    "StartUnlocked": true,
-    "StartingStatModifiers": [],
-    "StatsObjectives": [],
-    "SunsCost": 0,
-    "TagsOnBoardObjectives": [],
-    "TimeObjectives": [],
-    "UniqueID": "2c8f7b61f6fe4b3aab24a79936726727"
+      },
+      "StatWarpData": "1cfd30cf13b69b949a0ac521f55a59a2",
+      "StatWarpType": 3,
+      "ValueModifier": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    }
+  ],
+  "PerkDescription": {
+    "DefaultText": "你非常有活力，你的耐力恢复加快。",
+    "LocalizationKey": "translate-bdbcfea5-afac-4e34-8331-1e974559cbd9",
+    "ParentObjectID": "2c8f7b61f6fe4b3aab24a79936726727"
+  },
+  "PerkIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PerkIconWarpData": "Tired",
+  "PerkIconWarpType": 3,
+  "PerkName": {
+    "DefaultText": "活力无限",
+    "LocalizationKey": "translate-b9a762f0-f03a-4728-8741-959e2865509b",
+    "ParentObjectID": "2c8f7b61f6fe4b3aab24a79936726727"
+  },
+  "PerkUnlockConditions": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "PlayedCharacter": [],
+  "RequiredDifficultyScore": {
+    "x": 0,
+    "y": 0
+  },
+  "ResetLockInEditor": false,
+  "StartUnlocked": true,
+  "StartingStatModifiers": [],
+  "StatsObjectives": [],
+  "SunsCost": 0,
+  "TagsOnBoardObjectives": [],
+  "TimeObjectives": [],
+  "UniqueID": "2c8f7b61f6fe4b3aab24a79936726727"
 }

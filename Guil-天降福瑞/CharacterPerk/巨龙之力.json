@@ -1,83 +1,83 @@
 {
-    "ActionModifiers": [],
-    "ActionObjectives": [],
-    "AddedCards": [],
-    "AddedStartingHours": 0,
-    "CardsOnBoardObjectives": [],
-    "CheckingNotificationDetails": 0,
-    "CompleteOnLose": false,
-    "CompleteOnWin": false,
-    "DifficultyRating": "0",
-    "DisplayPriority": 0,
-    "EditorOnly": false,
-    "EquippedCards": [],
-    "HiddenUntilUnlocked": false,
-    "MoonsCost": 0,
-    "NestedObjectives": [],
-    "NoSafetyMode": false,
-    "NotifyWhenNotChecked": false,
-    "OverrideEnvironment": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideEquipment": false,
-    "OverrideWeather": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "PassiveStatModifiers": [
-        {
-            "ApplyEachTick": false,
-            "InstantModifier": "True",
-            "IsInverse": false,
-            "RateModifier": {
-                "x": 0,
-                "y": 0
-            },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "StatWarpData": "21574a6120f4d3c4b913c69987e2ff06",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": "-36000",
-                "y": "-36000"
-            }
-        }
-    ],
-    "PerkDescription": {
-        "DefaultText": "\u4f60\u62e5\u6709\u5f3a\u5927\u7684\u5de8\u9f99\u4e4b\u529b\uff0c\u6781\u5927\u7684\u63d0\u9ad8\u4e86\u4f60\u7684\u8d1f\u91cd\u80fd\u529b\u3002",
-        "LocalizationKey": "",
-        "ParentObjectID": "4331ed3b94ac11ed8876047c16184f06"
-    },
-    "PerkIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "PerkIconWarpData": "003347",
-    "PerkIconWarpType": 3,
-    "PerkName": {
-        "DefaultText": "\u5de8\u9f99\u4e4b\u529b",
-        "LocalizationKey": "",
-        "ParentObjectID": "4331ed3b94ac11ed8876047c16184f06"
-    },
-    "PerkUnlockConditions": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "PlayedCharacter": [],
-    "RequiredDifficultyScore": {
+  "ActionModifiers": [],
+  "ActionObjectives": [],
+  "AddedCards": [],
+  "AddedStartingHours": 0,
+  "CardsOnBoardObjectives": [],
+  "CheckingNotificationDetails": 0,
+  "CompleteOnLose": false,
+  "CompleteOnWin": false,
+  "DifficultyRating": "0",
+  "DisplayPriority": 0,
+  "EditorOnly": false,
+  "EquippedCards": [],
+  "HiddenUntilUnlocked": false,
+  "MoonsCost": 0,
+  "NestedObjectives": [],
+  "NoSafetyMode": false,
+  "NotifyWhenNotChecked": false,
+  "OverrideEnvironment": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideEquipment": false,
+  "OverrideWeather": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PassiveStatModifiers": [
+    {
+      "ApplyEachTick": false,
+      "InstantModifier": "True",
+      "IsInverse": false,
+      "RateModifier": {
         "x": 0,
         "y": 0
-    },
-    "ResetLockInEditor": false,
-    "StartUnlocked": false,
-    "StartingStatModifiers": [],
-    "StatsObjectives": [],
-    "SunsCost": "1",
-    "TagsOnBoardObjectives": [],
-    "TimeObjectives": [],
-    "UniqueID": "4331ed3b94ac11ed8876047c16184f06"
+      },
+      "Stat": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "StatWarpData": "21574a6120f4d3c4b913c69987e2ff06",
+      "StatWarpType": 3,
+      "ValueModifier": {
+        "x": "-36000",
+        "y": "-36000"
+      }
+    }
+  ],
+  "PerkDescription": {
+    "DefaultText": "你拥有强大的巨龙之力，极大的提高了你的负重能力。",
+    "LocalizationKey": "translate-28cd9b4a-7060-4b6c-8501-057f1295f742",
+    "ParentObjectID": "4331ed3b94ac11ed8876047c16184f06"
+  },
+  "PerkIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PerkIconWarpData": "003347",
+  "PerkIconWarpType": 3,
+  "PerkName": {
+    "DefaultText": "巨龙之力",
+    "LocalizationKey": "translate-d7ff3ce6-06cf-423e-9e49-1171ea017975",
+    "ParentObjectID": "4331ed3b94ac11ed8876047c16184f06"
+  },
+  "PerkUnlockConditions": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "PlayedCharacter": [],
+  "RequiredDifficultyScore": {
+    "x": 0,
+    "y": 0
+  },
+  "ResetLockInEditor": false,
+  "StartUnlocked": false,
+  "StartingStatModifiers": [],
+  "StatsObjectives": [],
+  "SunsCost": "1",
+  "TagsOnBoardObjectives": [],
+  "TimeObjectives": [],
+  "UniqueID": "4331ed3b94ac11ed8876047c16184f06"
 }

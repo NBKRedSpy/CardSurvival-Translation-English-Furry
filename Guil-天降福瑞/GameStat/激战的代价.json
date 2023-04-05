@@ -1,243 +1,243 @@
 {
-    "BarColor": {
-        "a": 1,
-        "b": 0.376470625400543,
-        "g": 0.517647087574005,
-        "r": 0.945098102092743
+  "BarColor": {
+    "a": 1,
+    "b": 0.376470625400543,
+    "g": 0.517647087574005,
+    "r": 0.945098102092743
+  },
+  "BarHighlightColor": {
+    "a": 1,
+    "b": 0,
+    "g": 0.728510022163391,
+    "r": 1
+  },
+  "BaseRatePerTick": -1,
+  "BaseValue": 0,
+  "CannotBeInspected": false,
+  "DefaultStatusDescription": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "DefaultStatusIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DefaultStatusName": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "Description": {
+    "DefaultText": "激战的代价——痛并快乐着。",
+    "LocalizationKey": "translate-d0bd3371-7b39-4f44-8a30-867c93ce6054",
+    "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
+  },
+  "FeedbackInfo": {
+    "Icon": {
+      "m_FileID": 0,
+      "m_PathID": 0
     },
-    "BarHighlightColor": {
-        "a": 1,
-        "b": 0,
-        "g": 0.728510022163391,
-        "r": 1
+    "IconWarpData": "激战的代价",
+    "IconWarpType": 3,
+    "Inverted": false,
+    "NegativeIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
     },
-    "BaseRatePerTick": -1,
-    "BaseValue": 0,
-    "CannotBeInspected": false,
-    "DefaultStatusDescription": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "DefaultStatusIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "DefaultStatusName": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "Description": {
-        "DefaultText": "\u6fc0\u6218\u7684\u4ee3\u4ef7\u2014\u2014\u75db\u5e76\u5feb\u4e50\u7740\u3002",
-        "LocalizationKey": "",
+    "StepValue": 10
+  },
+  "GameName": {
+    "DefaultText": "激战的代价",
+    "LocalizationKey": "translate-6041fa6f-cfa9-49e0-9df8-03a01e963dd3",
+    "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
+  },
+  "InvertedDirection": false,
+  "MaxStalenessStack": 0,
+  "MinMaxRate": {
+    "x": 0,
+    "y": 0
+  },
+  "MinMaxValue": {
+    "x": 0,
+    "y": 96
+  },
+  "NotEnoughIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NotEnoughText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "NoveltyCooldownDuration": 0,
+  "OverrideFeedbackPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RequiredPerks": [],
+  "ShowActionEffects": true,
+  "StalenessMultiplier": 0,
+  "StatPriority": 0,
+  "StatusDebugMode": false,
+  "Statuses": [
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 2,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0,
+      "Description": {
+        "DefaultText": "你感觉有一些疼痛",
+        "LocalizationKey": "translate-3ab37982-7e63-4369-9d6d-6bcb579b1d38",
         "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
-    },
-    "FeedbackInfo": {
-        "Icon": {
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
             "m_FileID": 0,
             "m_PathID": 0
-        },
-        "IconWarpData": "\u6fc0\u6218\u7684\u4ee3\u4ef7",
-        "IconWarpType": 3,
-        "Inverted": false,
-        "NegativeIcon": {
-            "m_FileID": 0,
-            "m_PathID": 0
-        },
-        "StepValue": 10
-    },
-    "GameName": {
-        "DefaultText": "\u6fc0\u6218\u7684\u4ee3\u4ef7",
-        "LocalizationKey": "",
-        "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
-    },
-    "InvertedDirection": false,
-    "MaxStalenessStack": 0,
-    "MinMaxRate": {
-        "x": 0,
-        "y": 0
-    },
-    "MinMaxValue": {
-        "x": 0,
-        "y": 96
-    },
-    "NotEnoughIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "NotEnoughText": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "NoveltyCooldownDuration": 0,
-    "OverrideFeedbackPrefab": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "RequiredPerks": [],
-    "ShowActionEffects": true,
-    "StalenessMultiplier": 0,
-    "StatPriority": 0,
-    "StatusDebugMode": false,
-    "Statuses": [
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 2,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0,
-            "Description": {
-                "DefaultText": "\u4f60\u611f\u89c9\u6709\u4e00\u4e9b\u75bc\u75db",
-                "LocalizationKey": "",
-                "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "ec5f330267076884dbe9cfdd2fd8503b",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 150,
-                        "y": 150
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "\u8f7b\u5fae\u7684\u4ee3\u4ef7",
-                "LocalizationKey": "",
-                "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "\u6fc0\u6218\u7684\u4ee3\u4ef7",
-            "IconWarpType": 3,
-            "NotifyPlayer": 2,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 1,
-                "y": 48
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 3,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0,
-            "Description": {
-                "DefaultText": "\u554a\uff0c\u591a\u4e48\u4e25\u91cd\u7684\u6fc0\u6218\u4ee3\u4ef7\u554a\uff01",
-                "LocalizationKey": "",
-                "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "ec5f330267076884dbe9cfdd2fd8503b",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 250,
-                        "y": 250
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "\u4e25\u91cd\u7684\u4ee3\u4ef7",
-                "LocalizationKey": "",
-                "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "\u6fc0\u6218\u7684\u4ee3\u4ef7",
-            "IconWarpType": 3,
-            "NotifyPlayer": 2,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 49,
-                "y": 96
-            }
+          },
+          "StatWarpData": "ec5f330267076884dbe9cfdd2fd8503b",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 150,
+            "y": 150
+          }
         }
-    ],
-    "StatusesHaveNoBar": false,
-    "TimeOfDayMods": [],
-    "TooMuchText": {
+      ],
+      "GameName": {
+        "DefaultText": "轻微的代价",
+        "LocalizationKey": "translate-f477dae5-bc44-4369-9046-a81f5d993fd9",
+        "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "激战的代价",
+      "IconWarpType": 3,
+      "NotifyPlayer": 2,
+      "PreventingActionMessage": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 1,
+        "y": 48
+      }
     },
-    "TrendIndicatorRateRange": {
-        "x": 0,
-        "y": 0
-    },
-    "UniqueID": "39e29d0490ab4ea0a3a8d5ebe8d802dc",
-    "UsesNovelty": false,
-    "Visibility": 0,
-    "VisibleInDetailedList": false,
-    "VisibleValueRange": {
-        "x": 0,
-        "y": 0
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 3,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0,
+      "Description": {
+        "DefaultText": "啊，多么严重的激战代价啊！",
+        "LocalizationKey": "translate-86709559-654f-4632-99a3-867c47c21c03",
+        "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "ec5f330267076884dbe9cfdd2fd8503b",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 250,
+            "y": 250
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "严重的代价",
+        "LocalizationKey": "translate-ad96ad9b-f6ce-4377-8509-d304e5f025c8",
+        "ParentObjectID": "39e29d0490ab4ea0a3a8d5ebe8d802dc"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "激战的代价",
+      "IconWarpType": 3,
+      "NotifyPlayer": 2,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 49,
+        "y": 96
+      }
     }
+  ],
+  "StatusesHaveNoBar": false,
+  "TimeOfDayMods": [],
+  "TooMuchText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "TrendIndicatorRateRange": {
+    "x": 0,
+    "y": 0
+  },
+  "UniqueID": "39e29d0490ab4ea0a3a8d5ebe8d802dc",
+  "UsesNovelty": false,
+  "Visibility": 0,
+  "VisibleInDetailedList": false,
+  "VisibleValueRange": {
+    "x": 0,
+    "y": 0
+  }
 }
