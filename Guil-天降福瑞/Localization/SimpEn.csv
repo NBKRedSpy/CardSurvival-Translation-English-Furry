@@ -5,7 +5,7 @@ translate-024ab533-434b-478d-adfc-4ff3af34b399,Life Cave,来生洞穴
 translate-a172dde1-1e15-4158-9be4-fe51482f5bf8,Mint field,薄荷田
 translate-3fc2ea1b-061e-4c50-821b-7ac6bda6bc67,A empty ice box can save meat.,"一个空冰盒,可以存肉。"
 translate-fe1908c8-5d75-4875-b849-42198e69e52a,Ice box (empty),冰盒（空）
-translate-8eacb050-3d9c-40dd-aa72-a8f3d8be9a82,"A ice box can save meat, and now there is something in it.","一个冰盒,可以存肉,现在里面有东西。"
+translate-8eacb050-3d9c-40dd-aa72-a8f3d8be9a82,A ice box can save meat, and now there is something in it.,"一个冰盒,可以存肉,现在里面有东西。"
 translate-8e9d58d8-5a27-4aa7-a3f8-f97a34a65719,ice box,冰盒
 translate-d0c13166-fab1-4324-9f53-31c6223a666b,Get out of the item,取出物品
 translate-835f7e01-196d-4574-bec0-c32a266074dd,Type of meat,肉的种类
@@ -51,13 +51,13 @@ translate-f3abf53d-047d-4daf-8cb5-69e59a80d633,treat,治疗
 translate-e5694769-fad8-4a23-abf0-94c4da4fcd5a,A life altar.,一座生命祭坛。
 translate-975f6c5f-60f8-41dd-a186-44eff2884c5f,Altar,生命祭坛
 translate-1f65eb1b-043b-4b36-ab15-1a6111bd57c9,A mysterious altar can offer organic matter.,"一个神秘的祭坛,可以献上有机物。"
-translate-3f7791be-a34a-413e-bb62-580d3f06fc70,"Your body is beaten on the mark of the earth, and you can turn thin or dry soil into mud piles.","你的身体被打上了大地印记,你可以把细土或干土堆变成泥堆。"
+translate-3f7791be-a34a-413e-bb62-580d3f06fc70,Your body is beaten on the mark of the earth, and you can turn thin or dry soil into mud piles.,"你的身体被打上了大地印记,你可以把细土或干土堆变成泥堆。"
 translate-0374d0f5-f19e-461f-9360-dae5c694487b,Turn into mud piles,化为泥堆
 translate-40e7ab2c-44bf-4aef-84f3-3abec83d8cc0,The power of the earth,大地之力
 translate-96e6ac45-d9ab-4b17-86bd-c2d254bcad89,Turn into clay,化为粘土
 translate-c793cb9b-329b-4b5f-b4ac-f47d6aa9428f,Dadi Seal,大地印记
-translate-41652d31-1941-4199-97b7-f0856c4d6bdb,"Your body is beaten on the mark of cold, and the food around you will not be broken.","你的身体被打上了凛寒印记,你周围的食物不会腐坏。"
-translate-5d323ad6-2a59-487b-b243-e38cb1020056,寒 寒 寒,凛寒印记
+translate-41652d31-1941-4199-97b7-f0856c4d6bdb,Your body is beaten on the mark of cold, and the food around you will not be broken.,"你的身体被打上了凛寒印记,你周围的食物不会腐坏。"
+translate-5d323ad6-2a59-487b-b243-e38cb1020056,Rinse Cold Mark,凛寒印记
 translate-0aad2ebf-c776-41d4-aa23-f2856d884a07,"Your body is hit with a shadow mark, and your equipment will slowly recover durable.","你的身体被打上了无影印记,你的装备会缓慢恢复耐久。"
 translate-6d365ab9-7831-4b2e-a883-b9742b9dbe6c,"Your body is beaten on the watermark, and the water around you will gradually increase.","你的身体被打上了渊水印记,你周围的水会逐渐增加。"
 translate-33444737-3ea4-4de4-be35-c0fa91ee207a,Yuanshuimin,渊水印记
@@ -130,11 +130,11 @@ translate-f3eafb3f-307e-4752-af0d-61244c5a1824,Current world cave,现世洞穴
 translate-32450979-0a11-43da-9da9-b2e1ad23acbe,A cave full of mystery.,一个充满神秘感的洞穴。
 translate-73e15008-b875-4194-bfd0-3d5f5cc743b0,Bat cave,蝙蝠洞
 translate-f0f01553-db7c-485d-a351-25c283b5bf1b,mining,采矿
-translate-89bc6ed2-bd69-425e-9efc-a42fa3445978,Enter the world cave. \ n \ n <b> (only the hand can be taken away) </b>,进入现世洞穴。\n\n<b>（只有手牌可以带走）</b>
+translate-89bc6ed2-bd69-425e-9efc-a42fa3445978,Enter the world cave. \n \n <b> (only the hand can be taken away) </b>,进入现世洞穴。\n\n<b>（只有手牌可以带走）</b>
 translate-70e17dc5-1d67-43db-8c30-716f8c29b2d6,Move to this world cave,移动到现世洞穴
-translate-23330ae2-ca30-4e12-945e-7883e9a29df2,Enter the bat cave. \ n \ n <b> (only the hand can be taken away) </b>,进入蝙蝠洞。\n\n<b>（只有手牌可以带走）</b>
+translate-23330ae2-ca30-4e12-945e-7883e9a29df2,Enter the bat cave. \n \n <b> (only the hand can be taken away) </b>,进入蝙蝠洞。\n\n<b>（只有手牌可以带走）</b>
 translate-57f5dae0-15d1-4b29-a2ef-c18ee7e6c571,Move to bat cave,移动到蝙蝠洞
-translate-afde4485-a351-4f1f-9521-276f57d488a4,Enter the Cave Cave. \ n <b> (only the hand can be taken away) </b>,进入来生洞穴。\n<b>（只有手牌可以带走）</b>
+translate-afde4485-a351-4f1f-9521-276f57d488a4,Enter the Cave Cave. \n <b> (only the hand can be taken away) </b>,进入来生洞穴。\n<b>（只有手牌可以带走）</b>
 translate-afca0f71-82a5-48f0-aa51-cd8314250cb2,Move the arrival of raw caves ...,移动到来生洞穴……
 translate-d9939391-08d4-4963-ad7e-72184b9a393e,Zodiak's box,佐迪亚克之箱
 translate-96def690-1e2c-48b0-9808-ee9bb33fa53f,Heidelin Box,海德林之箱
@@ -154,7 +154,7 @@ translate-b6442fc9-83be-4176-b7c9-2524a67741ca,Berry,莓果
 translate-d30194bc-e1e9-43d2-b6e2-be3ae31c97c2,A berry tree can pick berries.,"一颗莓果树,可以采摘莓果。"
 translate-d5ca7231-9766-45d8-bcea-fe2b2cdb79aa,Berry tree,莓果树
 translate-00e9f871-4a95-45fe-baf6-6236411f39fc,pick,采摘
-translate-41fe1a25-f3e5-4368-8340-51a45a131eb7,Enter the entangled swamp and do it carefully! \ N \ n <b> (only the hand can take away) </b>,"进入纠缠沼泽,小心行事!\n\n<b>（只有手牌可以带走）</b>"
+translate-41fe1a25-f3e5-4368-8340-51a45a131eb7,Enter the entangled swamp and do it carefully! \n \n <b> (only the hand can take away) </b>,"进入纠缠沼泽,小心行事!\n\n<b>（只有手牌可以带走）</b>"
 translate-88922cb1-8719-4b58-baaa-e886fcf4a9a4,Move to entangle swamps,移动到纠缠沼泽
 translate-a5f7c039-a5e3-4edf-81d4-a979d4fed0dc,"An old room, I can also settle here.","一座旧房,我也可以在这里安家。"
 translate-9d09c788-5028-4b62-8230-0f04e235494e,Old room,旧房
