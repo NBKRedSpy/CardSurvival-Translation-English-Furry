@@ -5,7 +5,7 @@ using HarmonyLib;
 
 namespace 天降福瑞;
 
-[BepInPlugin("Plugin.Furry", "Furry", "1.0.0")]
+[BepInPlugin("Plugin.Furry", "Furry", "1.1.0")]
 public class 天降福瑞 : BaseUnityPlugin
 {
 	public static bool 弹出提示 = true;
@@ -97,7 +97,9 @@ public class 天降福瑞 : BaseUnityPlugin
 			{
 				DismantleCardAction dismantleCardAction2 = new DismantleCardAction();
 				dismantleCardAction2.ActionName.DefaultText = "以惊雷击碎黑暗！";
-				Array.Resize(ref dismantleCardAction2.ProducedCards, 1);
+				dismantleCardAction2.ActionName.LocalizationKey = "LightWithThunderbolt";
+
+                Array.Resize(ref dismantleCardAction2.ProducedCards, 1);
 				dismantleCardAction2.ProducedCards[0] = cardsDropCollection;
 				dismantleCardAction2.ReceivingCardChanges.ModType = CardModifications.Destroy;
 				dismantleCardAction2.RequiredCardsOnBoard = fromID3.DismantleActions[0].RequiredCardsOnBoard;

@@ -8,6 +8,8 @@ Remove-Item -ErrorAction SilentlyContinue -Recurse ./Package/*
 Remove-Item -ErrorAction SilentlyContinue $ArchiveName
 mkdir -ErrorAction SilentlyContinue $ModFolder
 
+dotnet publish .\src\天降福瑞.csproj -o $ModFolder -c Release
+
 Copy-Item -Recurse ./Guil-天降福瑞/* $ModFolder
 
 # English name since github strips Unicode for security purposes.
