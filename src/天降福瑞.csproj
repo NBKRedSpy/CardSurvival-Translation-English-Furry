@@ -24,6 +24,7 @@
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>D:\Games\Steam\steamapps\common\Card Survival Tropical Island\Card Survival - Tropical Island_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>D:\Games\Steam\steamapps\common\Card Survival Tropical Island\Card Survival - Tropical Island_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
